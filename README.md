@@ -98,30 +98,18 @@
     <a href="https://github.com/abhayymishraa/writespace-webapp"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhayymishraa&repo=writespace-webapp&theme=radical" alt="Project 1" /> </a>
     <a href="https://github.com/abhayymishraa/auto-caption-generator"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhayymishraa&repo=auto-caption-generator&theme=radical" alt="Project 2" /> </a>
 </p>
+
 <h2 align="center">📊 GitHub Stats</h2>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=abhayymishraa&show_icons=true&theme=radical" alt="GitHub Stats" /></p>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayymishraa&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" align="center" /></div>
-
-<br/>
-
-
- ### GitHub Stats
- <div align="center">
-
- <img align="center"  alt="Abhay's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abhayymishraa&show_icons=true&hide_border=true&theme=radical&hide_border=true&fire=DD2727" />
-</div>
-
-</div>
 <div align="center">
- <hr/>
-
-### Productivity Stats
-
-
- ![Abhay Mishra's Productivity Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhayymishraa&theme=radical)
-
+ <img src="https://github-readme-stats.vercel.app/api?username=abhayymishraa&show_icons=true&theme=radical" alt="GitHub Stats" width="400" height="195" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayymishraa&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="400" height="195" />
 </div>
-<br/>
+
+
+<h2 align="center">📈 Productivity Stats</h2>
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhayymishraa&theme=radical" alt="Productivity Stats" width="800" height="200" loading="lazy" />
+</div>
 
 
 
