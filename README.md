@@ -100,7 +100,7 @@
 </p>
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=abhayymishraa&show_icons=true&theme=radical" alt="GitHub Stats" /></p>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayymishraa&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayymishraa&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" align="center" /></div>
 
 <br/>
 
