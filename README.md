@@ -1,4 +1,4 @@
-<div align="center"><img src="https://i.ibb.co/TrYTws1/tenor.gif" alt="Coding Gif" width="400px" /></div>
+
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /> Welcome to My GitHub Universe! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /></h1>
 <p align="center">
     <a href="https://github.com/abhayymishraa"> <img src="https://img.shields.io/badge/Full%20Stack%20Developer-%F0%9F%92%BB-blueviolet?style=for-the-badge" alt="Full Stack Developer" /> </a>
@@ -6,7 +6,13 @@
     <a href="https://github.com/abhayymishraa"> <img src="https://img.shields.io/badge/Web3%20Enthusiast-%F0%9F%95%B8%EF%B8%8F-blue?style=for-the-badge" alt="Web3 Enthusiast" /> </a>
     <a href="https://github.com/abhayymishraa"> <img src="https://img.shields.io/badge/Exploring%20Solana-%E2%9B%93%EF%B8%8F-green?style=for-the-badge" alt="Exploring Solana" /> </a>
 </p>
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhayymishraa&theme=radical" alt="GitHub Streak" /></div>
+
+
+<h2 align="center">💡 About Me</h2>
+<p align="center">
+    I'm a passionate Full Stack Developer and Cloud Native enthusiast with a keen interest in cutting-edge web technologies and blockchain innovations. My journey is driven by curiosity, continuous learning, and the desire to build impactful solutions.
+</p>
+
 <h2 align="center">🚀 Technologies & Tools</h2>
 <p align="center">
     <a href="https://git-scm.com/" target="_blank"> 
@@ -92,17 +98,11 @@
     </a>
 </p>
 
-    
-<h2 align="center">🌟 Featured Projects</h2>
-<p align="center">
-    <a href="https://github.com/abhayymishraa/writespace-webapp"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhayymishraa&repo=writespace-webapp&theme=radical" alt="Project 1" /> </a>
-    <a href="https://github.com/abhayymishraa/auto-caption-generator"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhayymishraa&repo=auto-caption-generator&theme=radical" alt="Project 2" /> </a>
-</p>
-
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=abhayymishraa&show_icons=true&theme=radical" alt="GitHub Stats" width="400" height="195" />
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayymishraa&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="400" height="195" />
+ <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhayymishraa&theme=radical" alt="GitHub Streak" /></div>
 </div>
 
 
