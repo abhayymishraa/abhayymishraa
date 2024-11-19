@@ -6,7 +6,7 @@
     <a href="https://github.com/abhayymishraa"> <img src="https://img.shields.io/badge/Web3%20Enthusiast-%F0%9F%95%B8%EF%B8%8F-blue?style=for-the-badge" alt="Web3 Enthusiast" /> </a>
     <a href="https://github.com/abhayymishraa"> <img src="https://img.shields.io/badge/Exploring%20Solana-%E2%9B%93%EF%B8%8F-green?style=for-the-badge" alt="Exploring Solana" /> </a>
 </p>
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhayymishraa&theme=dark" alt="GitHub Streak" /></div>
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhayymishraa&theme=radical" alt="GitHub Streak" /></div>
 <h2 align="center">🚀 Technologies & Tools</h2>
 <p align="center">
     <a href="https://git-scm.com/" target="_blank"> 
