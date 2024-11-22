@@ -120,4 +120,4 @@
     <a href="mailto:grabhaymishra@gmail.com"> <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a>
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=abhayymishraa&style=flat-square&color=blue" alt="Profile Views" /></p>
-<h3 align="center">⬇️ Check out my repos below ⬇️</h3>
+<h3 align="center">⬇️ Check out my repositories  below ⬇️</h3>
