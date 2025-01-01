@@ -1,14 +1,6 @@
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /> Welcome to My GitHub Universe! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /></h1>
-<p align="center">
-    <a href="https://github.com/abhayymishraa"> <img src="https://img.shields.io/badge/Full%20Stack%20Developer-%F0%9F%92%BB-blueviolet?style=for-the-badge" alt="Full Stack Developer" /> </a>
-    <a href="https://github.com/abhayymishraa"> <img src="https://img.shields.io/badge/Professional%20Bug%20Slayer-%F0%9F%90%9B-red?style=for-the-badge" alt="Bug Slayer" /> </a>
-    <a href="https://github.com/abhayymishraa"> <img src="https://img.shields.io/badge/Web3%20Enthusiast-%F0%9F%95%B8%EF%B8%8F-blue?style=for-the-badge" alt="Web3 Enthusiast" /> </a>
-    <a href="https://github.com/abhayymishraa"> <img src="https://img.shields.io/badge/Exploring%20Solana-%E2%9B%93%EF%B8%8F-green?style=for-the-badge" alt="Exploring Solana" /> </a>
-</p>
 
-
-<h2 align="center">💡 About Me</h2>
 <p align="center">
     I'm a passionate Full Stack Developer and Cloud Native enthusiast with a keen interest in cutting-edge web technologies and blockchain innovations. My journey is driven by curiosity, continuous learning, and the desire to build impactful solutions.
 </p>
