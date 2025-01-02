@@ -1,11 +1,11 @@
 
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /> Welcome to My GitHub Universe! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /></h1>
+<h1 align="center"> Welcome to My GitHub Universe! </h1>
 
 <p align="center">
     I'm a passionate Full Stack Developer and Cloud Native enthusiast with a keen interest in cutting-edge web technologies and blockchain innovations. My journey is driven by curiosity, continuous learning, and the desire to build impactful solutions.
 </p>
 
-<h2 align="center">🚀 Technologies & Tools</h2>
+<h2 align="center">Technologies & Tools</h2>
 <p align="center">
     <a href="https://git-scm.com/" target="_blank"> 
         <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/> 
@@ -90,26 +90,10 @@
     </a>
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=abhayymishraa&show_icons=true&theme=radical" alt="GitHub Stats" width="400" height="195" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayymishraa&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="400" height="195" />
- <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhayymishraa&theme=radical" alt="GitHub Streak" /></div>
-</div>
-
-
-<h2 align="center">📈 Productivity Stats</h2>
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhayymishraa&theme=radical" alt="Productivity Stats" width="800" height="200" loading="lazy" />
-</div>
-
-
-
 <h2 align="center">🤝 Connect With Me</h2>
 <p align="center">
     <a href="https://twitter.com/abhayy_mishraa"> <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" /> </a>
     <a href="https://www.linkedin.com/in/abhayymishraa/"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a>
     <a href="mailto:grabhaymishra@gmail.com"> <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a>
 </p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=abhayymishraa&style=flat-square&color=blue" alt="Profile Views" /></p>
 <h3 align="center">⬇️ Check out my repositories  below ⬇️</h3>
