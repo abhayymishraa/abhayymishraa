@@ -86,7 +86,7 @@
         <img src="https://img.icons8.com/color/48/blockchain.png" alt="solana"/> 
     </a>
   <a href="https://bitcoin.org/en/" target="_blank"> 
-        <img src="https://img.icons8.com/color/48/bitcoin.png" alt="solana"/> 
+        <img src="https://img.icons8.com/color/48/solidity.png" alt="solana"/> 
     </a>
 </p>
 
