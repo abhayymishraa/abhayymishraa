@@ -7,17 +7,11 @@
 
 <h2 align="center">Technologies & Tools</h2>
 <p align="center">
-    <a href="https://git-scm.com/" target="_blank"> 
-        <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/> 
-    </a>
-    <a href="https://html.com/" target="_blank"> 
-        <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML"/> 
-    </a>   
-    <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"> 
-        <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/> 
-    </a> 
     <a href="https://www.javascript.com/" target="_blank"> 
         <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/> 
+    </a>
+    <a href="https://www.javascript.com/" target="_blank"> 
+        <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="JavaScript"/> 
     </a>
     <a href="https://nodejs.org/" target="_blank"> 
         <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/> 
