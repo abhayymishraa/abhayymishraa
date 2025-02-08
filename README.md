@@ -76,9 +76,6 @@
     <a href="https://www.cloudflare.com/" target="_blank"> 
         <img src="https://img.icons8.com/color/48/cloudflare.png" alt="Cloudflare"/> 
     </a>
-  <a href="https://www.solana.com/" target="_blank"> 
-        <img src="https://img.icons8.com/color/48/blockchain.png" alt="solana"/> 
-    </a>
   <a href="https://bitcoin.org/en/" target="_blank"> 
         <img src="https://img.icons8.com/color/48/solidity.png" alt="solana"/> 
     </a>
