@@ -78,7 +78,7 @@
     </a>
   <a href="https://bitcoin.org/en/" target="_blank"> 
         <img src="https://img.icons8.com/color/48/solidity.png" alt="solana"/> 
-    </a>
+  </a>
 </p>
 
 <h2 align="center">🤝 Connect With Me</h2>
