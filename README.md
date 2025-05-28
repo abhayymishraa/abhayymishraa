@@ -1,9 +1,23 @@
 
-<h1 align="center"> Welcome to My GitHub Universe! </h1>
+<h2 align="center">Hello, I'm Abhay</h2>
+<p align="center">&nbsp;<img align="center" src="https://github-stats-alpha.vercel.app/api?username=abhayymishraa&cc=504&tc=BD2&ic=EC3&bc=000" alt="AbhayMishra" /></p>
 
-<p align="center">
-    I'm a passionate Full Stack Developer and Cloud Native enthusiast with a keen interest in cutting-edge web technologies and blockchain innovations. My journey is driven by curiosity, continuous learning, and the desire to build impactful solutions.
-</p>
+<br><br>
+
+- 🔭 I’m currently working on **Open Source Contributions, Cli Tools, Blockchain**.
+
+- 🌱 I’m currently learning **Rust, Ai Agents**.
+
+- 💬 You can reach out to me for **questions related to Anything you think i can help you with**.
+
+- 📫 How to reach me: **grabhaymishra@gmail.com**.
+
+- ❣ You know what? **I love Contributing to Open Source 🤍**.
+
+- ⚡ Hobbies: **Prograrmming 🤍**.
+
+<br>
+
 
 <h2 align="center">Technologies & Tools</h2>
 <p align="center">
